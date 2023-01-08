@@ -3,7 +3,7 @@ Project untuk penilaian Ujian Akhir Semester 3 mata kuliah Pemrograman Berorient
 Project UAS ini merupakan sebuah program java untuk menentukan berat dan harga roti dari sebuah toko roti.
 Project ini bersifat kelompok.
 
-Anggota Kelompok:
+# Anggota Kelompok:
 - K3521003	Agy Hafidzah Sukmaningrum
 - K3521021	Dimas Primacahyadi
 - K3521041	Meidy Yolandia
