@@ -24,7 +24,7 @@ public class UASFIKSS {
     public static void main(String[] args) {
         // TODO code application logic here
         ManisVarian1 pesan1 = new ManisVarian1();
-        pesan1.jumlahPesanan=20;
+        pesan1.jumlahPesanan=50;
         pesan1.tampil();
         
         ManisVarian2 pesan2 = new ManisVarian2();
